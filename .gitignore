@@ -5,4 +5,5 @@ obj/
 *.ReSharper.user
 *.csproj.user
 *.cache
+*.user
 /packages
